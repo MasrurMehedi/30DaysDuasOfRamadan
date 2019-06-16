@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main"
+    tools:context="com.example.masror_mehedi.a30daysduasoframadan.MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/dua1_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 1"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/dua2_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 2"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/dua3_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 3"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/dua4_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 4"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/dua5_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 5"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/dua6_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 6"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/dua7_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 7"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/dua8_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 8"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/dua9_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 9"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/dua10_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 10"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/dua11_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 11"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/dua12_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 12"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/dua13_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 13"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/dua14_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 14"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/dua15_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 15"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/dua16_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 16"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/dua17_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 17"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/dua18_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 18"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/dua19_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 19"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/dua20_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 20"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/><Button
+        android:id="@+id/dua21_btn"
+
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/buttonshape"
+
+        android:shadowColor="#37D6DB"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        android:text="Ramadan Dua Day 21"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"
+        android:paddingBottom="5dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/dua22_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 22"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/dua23_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 23"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/dua24_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 24"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/dua25_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 25"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/dua26_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 26"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/dua27_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 27"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/dua28_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 28"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/dua29_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 29"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/dua30_btn"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/buttonshape"
+
+            android:shadowColor="#37D6DB"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="Ramadan Dua Day 30"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+    </LinearLayout>
+
+
+</ScrollView>
